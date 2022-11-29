@@ -1,0 +1,24 @@
+první datový typ:
+number, číslo
+
+příklady: 5, 78, Infinity, NaN
+
+operace: +, -, *, /, **, %
+
+operátor typeof
+
+priorita operátorů (závorky vždy vyhrávají)
+
+druhý datový typ:
+string, řetězec
+
+píše se do uvozovek, jednoduchých nebo dvojitých
+(ještě existuje třetí možnost - backtick - `)
+
+operace: umí se spojovat (concatenation), operátor +
+
+lze escapovat pomocí \
+\n = newline, nový řádek
+\t = tabulátor
+\" = ruší speciální význam uvozovek
+\\ = ruší speciální význam \
