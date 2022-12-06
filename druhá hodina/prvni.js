@@ -20,6 +20,7 @@ console.log(zvire);
 console.log("zvire");
 
 let vek = prompt("Kolik ti je let?");
+let vek;
 
 console.log("To je hezké, že ti je " + vek + " let.");
 

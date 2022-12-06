@@ -1,0 +1,11 @@
+datové typy:
+number, string
+
+boolean
+
+operátory pro boolean: > < >= <= == === != !==
+používejte raději trojité === a !==
+
+and = &&
+or = ||
+not = !
