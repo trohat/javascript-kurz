@@ -1,0 +1,13 @@
+Zadání na práci teď, přiližně do půl:
+Buď úkoly na cykly ze čtvrté hodiny (jsou nahrané na githubu, soubor ukol.txt).
+
+Nebo, v Teamsech (tam je to nahrané ve třetí hodině):
+Vždy dva soubory, JS_Practicum a JS_HT (na tuhle organizaci si
+zvykněte, soubory s úkoly budou vždy dva):
+
+Week 1 - úkoly na procvičení základů
+Week 2 - úkoly na procvičení podmínek
+Week 3 - úkoly na procvičení cyklů
+
+Podle toho, co nejvíc potřebujete procvičovat, si vyberte.
+
