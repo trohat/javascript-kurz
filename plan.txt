@@ -1,0 +1,15 @@
+7. hodina - opakování, základy HTML - 2
+
+pole - 2
+
+objekty - 2
+
+události - 1
+
+formuláře - 1
+
+co canvas??? - 1
+
+asynchronní JS - 1
+
+součet: 9
