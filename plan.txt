@@ -1,8 +1,5 @@
 7. hodina - opakování, základy HTML - 2
 
-pole - 2
-
-objekty - 2
 
 události - 1
 
@@ -13,3 +10,11 @@ co canvas??? - 1
 asynchronní JS - 1
 
 součet: 9
+
+---------------------------------------------
+
+4 - opakování funkcí, pole, objekty, opakování
+
+4 - HTML a JavaScript
+
+2 - pokročilejší témata, jako hlavně asynchronní JavaScript, canvas, nebo taky opakování

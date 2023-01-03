@@ -1,0 +1,8 @@
+datové typy - string, number, boolean, null, undefined
+
+nový datový typ - pole neboli array 
+
+let pritomniStudenti = ["Tomáš", "Vlado", "Martin", "Petr", "Jana"];
+
+metody pro práci s poli:
+push, pop, shift, unshift
