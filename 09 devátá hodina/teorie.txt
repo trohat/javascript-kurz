@@ -1,0 +1,6 @@
+datové typy - number, string (řetězec), boolean, undefined, null, 
+                array (pole), function, symbol (složité, brát nebudeme)
+
+objekty (nový datový typ pro dnešek)
+
+OOP = objektově orientované programování, ale tak daleko se nedostaneme
