@@ -56,7 +56,8 @@ const changeHours = (timeObject, hours) => {
     while (timeObject.hours < 0) {
         timeObject.hours += 24;
     }
-    console.log("ukazuju čas uvnitř funkce changeHours", showTime(timeObject));
+    //console.log("tohle je funkce co mění hodiny a zároveň vypisuje čas");
+    //console.log("ukazuju čas uvnitř funkce changeHours", showTime(timeObject));
     return timeObject;
 };
 
@@ -83,6 +84,7 @@ const changeMinutes = (timeObject, minutes) => {
 
 
 console.log("už jen dvakrát změním minuty a jdu domů");
+console.log(showTime(time));
 changeMinutes(time, 5);
 changeMinutes(time, 35);
 
