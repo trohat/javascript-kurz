@@ -27,7 +27,7 @@ metody childNodes, firstChild, lastChild, previousSibling, nextSibling atd.
 
 8.) Zkuste některé prvky z DOMu odstranit.
 
-9.) Metoda replaceChild je poměrně specifická, ale zkuste ji použít. Nahraďte jeden
+9.) Metoda replaceChild je poměrně specifická. Zkuste ji použít. Nahraďte jeden
 prvek v DOMu jiným. (Zkuste si najít v dokumentaci, jak se přesně používá.)
 
 10.) BONUS

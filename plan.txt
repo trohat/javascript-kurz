@@ -18,3 +18,12 @@ součet: 9
 4 - HTML a JavaScript
 
 2 - pokročilejší témata, jako hlavně asynchronní JavaScript, canvas, nebo taky opakování
+
+
+------------------------------
+
+4 večery:
+
+události, formuláře
+
+1-2 projekty, kreslení na canvas, pokročilejší události, (pokročilejší JavaScript)
