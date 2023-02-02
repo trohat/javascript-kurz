@@ -10,8 +10,9 @@ function pohniMicem(event) {
     console.log("target", event.target);
     console.log("currentTarget", event.currentTarget);
     let souradniceHriste = event.currentTarget.getBoundingClientRect()
+    console.log(souradniceHriste)
     console.log("souřadnice kliku", event.clientX, event.clientY);
-    console.log("RectDOM", souradniceHriste.left, souradniceHriste.top)
+    console.log("DOMRect", souradniceHriste.left, souradniceHriste.top)
     let micZleva = event.clientX - souradniceHriste.left
      - hriste.clientLeft - mic.clientWidth / 2;
     let micSeshora = event.clientY - souradniceHriste.top

@@ -1,4 +1,4 @@
-window.addEventListener("keydown", function (event) {
+/*window.addEventListener("keydown", function (event) {
     if (event.key === "f") {
         document.body.style.backgroundColor = "purple";
     } /*else if (event.key === "s") {
@@ -21,6 +21,10 @@ window.addEventListener("keydown", function(event) {
 
 window.addEventListener("click", function(event) {
         console.log(event);
+});*/
+
+window.addEventListener("keyup", function (event) {
+    if (event.key === "f") {
+        document.body.style.backgroundColor = "";
+    }
 });
-
-
